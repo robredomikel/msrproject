@@ -1,4 +1,4 @@
-README file for the replication of this project:
+README file for the replication of this project: (NOTE: Needed directory paths in the code must be created in the working directory for proper functionality of the code)
 
 CONTENTS:
 	
