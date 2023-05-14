@@ -1,4 +1,4 @@
-README file for the replication of the ESEM2023 paper "Does SonarQube affect the development velocity: A preliminary study"
+README file for the replication of this project:
 
 CONTENTS:
 	
