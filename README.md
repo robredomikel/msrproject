@@ -72,5 +72,5 @@ CONTENTS:
 
 	3.1. Regression Analysis performed in R.
 
-		- With the mentioned changes performed in the final dataset run the analysis with the multiRegression.R file. It's highly recommended
+		- With the mentioned changes performed in the final dataset run the analysis with the regressionAnalysis.R file. It's highly recommended
 		  to create a new R project in the working directory and then run the script.  
